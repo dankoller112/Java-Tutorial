@@ -5,10 +5,10 @@ Hallo!
 		 * 
 		 * Diese Java Files dienen als vorgefertige Dokumente dem erlernen von Java
 		 * Für einen optimalen Lerneffekt, sollte die Reihenfolge eingehalten werden
-		 * Die Reihenfolge dieser Lehrreihe lautet wie folgt:
+		 * Die Reihenfolge dieser Lehrreihe lautet wie folgt:  
 		 * 
-		 * 		1. Hallo Welt
-		 * 		2. Variablen
+		 * 		1. Hallo Welt. 
+		 * 		2. Variablen. 
 		 * 		3. PrimitiveDatentypen
 		 * 		4. StringKlasse
 		 * 		5. ArithmetischeOperatoren
