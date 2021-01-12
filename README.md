@@ -29,8 +29,8 @@ Diese Java Files dienen als vorgefertige Dokumente dem erlernen von Java. Für e
 		 * 		22. Konstruktor  
 		 * 		23. MethodenÜberladen  
 		 * 		24. Vererbung (+ "VererbungHund", "VererbungKatze" & "VererbungTier")  
-		 *   
-		 * Viel Spaß beim Üben!  
-		 *   
-		 * Die Grundidee hierzu findet sich auf dem YouTube Channel von "Programmieren Starten".  
-		 * Großes Dankeschön an das Team!
+  
+  Viel Spaß beim Üben!  
+  
+  Die Grundidee hierzu findet sich auf dem YouTube Channel von "Programmieren Starten".  
+  Großes Dankeschön an das Team!
