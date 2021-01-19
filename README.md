@@ -1,9 +1,9 @@
 # Java-Tutorial
-A basic tutorial in how to code with Java
+### A basic tutorial in how to code with Java (DE)
 
 Hallo!  
   
-Diese Java Files dienen als vorgefertige Dokumente dem erlernen von Java. Für einen optimalen Lerneffekt, sollte die Reihenfolge eingehalten werden. Die Reihenfolge dieser Lehrreihe lautet wie folgt:  
+Diese Java Files dienen als vorgefertige Dokumente dem Erlernen von Java. Für einen optimalen Lerneffekt, sollte die Reihenfolge eingehalten werden. Die Reihenfolge dieser Lehrreihe lautet wie folgt:  
   
 		 * 		1. Hallo Welt  
 		 * 		2. Variablen  
