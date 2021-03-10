@@ -1,4 +1,7 @@
-# Java-Tutorial
+# Java-Tutorial  
+
+![Status](https://img.shields.io/badge/Active-true-brightgreen) ![Status](https://img.shields.io/badge/Managed-true-brightgreen) ![Status](https://img.shields.io/badge/Indev-no-red)
+
 ### A basic tutorial in how to code with Java (DE)
 
 Hallo!  
